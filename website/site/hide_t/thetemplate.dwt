@@ -1,0 +1,254 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Acadmic Execellence</title>
+<!-- TemplateEndEditable -->
+<link href="../_css/stylesheet.css" rel="stylesheet" type="text/css">
+
+
+    <!--link rel="stylesheet" type="text/css" href="_css/style.css" /-->
+<link href='http://fonts.googleapis.com/css?family=Ropa+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Kotta+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../_css/login-form.css" media="screen">
+
+
+<link rel="stylesheet" href="../_css/horizontalaccordion.css" type="text/css" />
+
+<!--   horzont according		-->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1000px" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="">
+  <tr>
+    <td width="700">
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" >
+      <tr>
+        <td height="128"><img src="../_images/e_learning.jpg" width="966" height="180"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td id="nav">  <ul >
+<li><a href="#">Home</a></li>
+<li><a href="#">Courses</a>
+        <ul>
+        
+        
+        <li><a href="#">Photography</a></li>
+        <li><a href="#">Certification Course</a>
+                <ul>
+                <li><a href="#">C</a></li>
+                <li><a href="#">c++</a></li>
+                <li><a href="#">java</a></li>
+                
+               </ul>
+        </li>
+        <li><a href="#">Web Devloper</a></li>
+        
+       
+        </ul>
+</li>
+<li><a href="#">Register</a>
+
+</li>
+
+
+<li><a href="#">Free Trial</a></li>
+<li><a href="#">Online Exam</a></li>
+<li><a href="#">Project Submision</a></li>
+<li><a href="#">Downloads</a></li>
+
+
+<li><a href="#">Support</a>
+        <ul>
+        <li><a href="#">How to use site</a></li>
+        <li><a href="#">ask questions</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">About Us</a></li>
+          <li><a href="#">Send Feedback</a></li>
+       
+       
+        </ul>
+</li>
+
+<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+        </ul> </td>
+      </tr>
+    </table></td>
+  </tr>
+ 
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="35%" height="231"><div class="login-form">
+
+	<h1>Members Login </h1>
+
+	<form action="">
+
+		<input type="text" name="username" placeholder="username">
+		
+		<input type="password" name="password" placeholder="password">
+		
+		<span>
+			<input type="checkbox" name="checkbox">
+			<label for="checkbox">remember</label>
+		</span>
+		
+		<input type="submit" value="log in">
+
+	</form>
+
+</div>
+</td>
+        <td width="65%"><h3 class="infoheading">
+</p>
+<!-- TemplateBeginEditable name="EditRegion2" -->EditRegion2<!-- TemplateEndEditable --></td>
+        </tr>
+    </table></td>
+  </tr>
+  <!-- TemplateBeginEditable name="EditRegion4" -->
+  <tr>
+    <td height="217"><table width="85%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="344"><div class="horizontalaccordion">
+          <ul>
+            <li>
+              <h3>Free Trial</h3>
+              <div>You Can Try Our Web site free for 7 days and if U wish to continue then only pay and Become a Member <a href="#" onMouseOver="#666"> Start free Trial</a></div>
+            </li>
+            <li>
+              <h3>Cirtification Courses</h3>
+              <div>Our WebSite provide Cirtification Courses in C C++ and Java. Join Our site Learn from professional Teachers .Submit Projects and after compliting Online Test you Will be Issued a Cirtificate.</div>
+            </li>
+            <li>
+              <h3>Our Aim</h3>
+              <div>
+                <h1>Watch. Listen. Practice. Learn.</h1>
+                Unlimited access to the entire library of 
+                Full-length courses divided into chapters and individual lessons
+                Beginner, intermediate, and advanced courses
+                Play, pause, and rewind as often as you want
+                Create and share playlists of courses </div>
+            </li>
+            <li>
+              <h3>h</h3>
+              <div>Content For Panel 4</div>
+            </li>
+          </ul>
+        </div></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="19"></td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="19"> <div class="main">
+        <header>
+        <nav class="menu-top">
+        <ul class="main-ul">
+        <li class="test"><a href="#"><span>Home</span></a></li>
+        <li><a href="#"><span>Online Exam</span></a></li>
+        
+        <li><a href="#"><span>Gallery</span></a></li>
+        <li><a href="#"><span>project Submission</span></a></li>
+        <li><a href="#"><span>Register</span></a></li>
+        <li><a href="#"><span>Downloads</span></a></li>
+        <li><a href="#"><span>Alumini</span></a></li>
+        <li><a href="#"><span>Portfolio</span></a></li>
+        </ul>
+        </nav>
+         
+        
+</header>
+        </div>
+    </td>
+  </tr>
+  
+  
+  
+    <td height="19">
+    <table width="95%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td> <div id="templatemo_wrapper">
+
+	<div id="templatemo_top">
+  <p class="fb">&nbsp;</p>
+    	<ul id="social">
+        	<li><a href="http://www.templatemo.com" target="_parent"><img src="../_images/rss.png" alt="rss" width="73" height="77" /></a></li>
+            <li><a href="http://www.facebook.com/templatemo" target="_parent"><img src="../_images/facebook.png" alt="facebook" width="80" height="76" /></a></li>
+            <li><a href="http://www.templatemo.com" target="_parent"><img src="../_images/twitter.png" alt="twitter" width="74" height="77" /></a></li>
+            <li><a href="#"><img src="../_images/myspace.png" alt="myspace" width="74" height="80" /></a></li>
+              
+              
+                  <li><a href="#"><img src="../_images/gmail.png" alt="gmail" width="74" height="77" /></a></li>
+                
+              
+        </ul>
+    	
+        <div class="cleaner"></div>
+    </div>
+	<p class="copyright">&nbsp;</p>
+	<p class="copyright">Copyright @ 2012||atuldislay</p></td>
+  </tr>
+</table>
+
+   
+</td>
+  </tr>
+  <tr>
+    <td height="19">
+    <!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></td>
+  </tr><tr>
+    <td height="19">
+</td>
+  </tr>
+</table>
+</body>
+</html>

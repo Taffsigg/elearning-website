@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../_css/stylesheet.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../_css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="../_css/style.css" />
+<link href='http://fonts.googleapis.com/css?family=Ropa+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Kotta+One' rel='stylesheet' type='text/css'>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1000px" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="700">
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="128"><img src="../_images/Towards-Academic-Excellence.jpg" width="916" height="180"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td id="nav">  <ul >
+<li><a href="../index.php">Home</a></li>
+<li><a href="#">Courses</a>
+        <ul>
+        
+        
+        <li><a href="#">Photography</a></li>
+        <li><a href="#">Certification Course</a>
+                <ul>
+                <li><a href="#">C</a></li>
+                <li><a href="#">c++</a></li>
+                <li><a href="#">java</a></li>
+                <li><a href="#">php/mysql</a></li>
+               </ul>
+        </li>
+        <li><a href="#">Level 2.2</a></li>
+        
+       
+        </ul>
+</li>
+<li><a href="../register_members.php">Register</a>
+
+</li>
+
+
+<li><a href="#">Project Submision</a></li>
+<li><a href="#">Online Exam</a></li>
+<li><a href="#">Downloads</a></li>
+<li><a href="#">Support</a>
+        <ul>
+        <li><a href="#">How to use site</a></li>
+        <li><a href="#">ask questions</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">About Us</a></li>
+       
+       
+        </ul>
+</li>
+
+
+</ul> </td>
+      </tr>
+    </table></td>
+  </tr>
+ 
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19"><table width="97%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="68%" height="172"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></td>
+        <td width="32%"><h3 class="infoheading">Learn CAD from a pro.</h3>
+        <p class="info">
+Our teachers are effective, passionate educators, who are also respected authorities in software, creative, and business fields. They're here to share their expertise in dozens of topics with you, with courses organized into these eight subject areas.</p></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="217"><table width="85%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="36%" height="207"><img src="../_images/laptop-bg.jpg" width="291" height="228" alt=""></td>
+        <td width="64%"><p class="info"><h3 class="infoheading">Watch. Listen. Practice. Learn.</h3><ul>
+					<li>Unlimited access to the entire library of 1,945 courses</li>
+					<li>Full-length courses divided into chapters and individual lessons</li>
+					<li>Beginner, intermediate, and advanced courses</li>
+					<li>Play, pause, and rewind as often as you want</li>
+					<li>Create and share playlists of courses</li></td>
+      </tr>
+    </table>
+    <!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
+  </tr>
+  <!-- TemplateBeginEditable name="EditRegion2" -->
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+    <tr>
+    <td height="19"> <div class="main">
+        <header>
+        <nav class="menu-top">
+        <ul class="main-ul">
+        <li class="test"><a href="#"><span>Home</span></a></li>
+        <li><a href="#"><span>Article</span></a></li>
+        <li><a href="#"><span>Blog</span></a></li>
+        <li><a href="#"><span>Gallery</span></a></li>
+        <li><a href="#"><span>About</span></a></li>
+        <li><a href="#"><span>Contact Us</span></a></li>
+        <li><a href="#"><span>Alumini</span></a></li>
+        <li><a href="#"><span>Portfolio</span></a></li>
+        </ul>
+        </nav>
+         
+        
+</header>
+        </div>
+        </td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,180 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../_css/stylesheet.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1000px" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="700">
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="128"><img src="../_images/Towards-Academic-Excellence.jpg" width="916" height="180"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td id="nav">  <ul >
+<li><a href="#">Home</a></li>
+<li><a href="#">Courses</a>
+        <ul>
+        
+        
+        <li><a href="#">Photography</a></li>
+        <li><a href="#">Certification Course</a>
+                <ul>
+                <li><a href="#">C</a></li>
+                <li><a href="#">c++</a></li>
+                <li><a href="#">java</a></li>
+                <li><a href="#">php/mysql</a></li>
+               </ul>
+        </li>
+        <li><a href="#">Level 2.2</a></li>
+        
+       
+        </ul>
+</li>
+<li><a href="#">Register</a>
+
+</li>
+
+
+<li><a href="#">Project Submision</a></li>
+<li><a href="#">Online Exam</a></li>
+<li><a href="#">Our Portfolio</a></li>
+<li><a href="#">Support</a>
+        <ul>
+        <li><a href="#">How to use site</a></li>
+        <li><a href="#">ask questions</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">About Us</a></li>
+       
+       
+        </ul>
+</li>
+
+
+</ul> </td>
+      </tr>
+    </table></td>
+  </tr>
+ 
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19"><table width="97%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="172"><h3 class="infoheading"><div id="accordion" class="accor">
+			<article>
+				<h2>Certification Courses</h2>
+				<img src="img/AE.jpg" width="100" height="88">
+				<p>
+					Sign Up On our website 
+				</p>
+				<p>
+					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+				</p>
+			</article>
+			<article>
+				<h2>Section 2</h2>
+				<img src="img/AE.jpg" width="100" height="75">
+				<p>
+					Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+				</p>
+				<p>
+					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+				</p>
+			</article>
+			<article>
+				<h2>Section 3</h2>
+				<img src="img/AE.jpg" width="100" height="67">
+				<p>
+					Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+				</p>
+				<p>
+					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+				</p>
+			</article>
+			<article>
+				<h2>Section 4</h2>
+				<img src="img/AE.jpg" width="100" height="75">
+				<p>
+					Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+				</p>
+				<p>
+					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+				</p>
+			</article>
+		</div></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="217"><table width="85%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="36%" height="207"><img src="../_images/laptop-bg.jpg" width="291" height="228" alt=""></td>
+        <td width="64%"><p class="info"><h3 class="infoheading">Watch. Listen. Practice. Learn.</h3><ul>
+					<li>Unlimited access to the entire library of 1,945 courses</li>
+					<li>Full-length courses divided into chapters and individual lessons</li>
+					<li>Beginner, intermediate, and advanced courses</li>
+					<li>Play, pause, and rewind as often as you want</li>
+					<li>Create and share playlists of courses</li></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

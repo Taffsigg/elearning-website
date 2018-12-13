@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-image:url(../_images/two.png);	
+}
+
+a:link {
+	color:#666;
+	text-decoration: none;
+}
+#nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: right;
+}
+ 
+#nav ul li {
+        float:left;
+}
+
